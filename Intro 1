@@ -1,0 +1,8 @@
+AutoHotkey is a free, open-source program that allows you to automate tasks in Windows by creating scripts. With AutoHotkey, you can create your own custom hotkeys, automate repetitive tasks, and even create simple programs with a graphical user interface (GUI).
+To get started with AutoHotkey, you'll need to download and install the program from the official website (https://www.autohotkey.com/). Once you have AutoHotkey installed, you can create a new script by right-clicking on your desktop and selecting "New" > "AutoHotkey Script" from the context menu. This will create a new file with the .ahk extension, which you can then open and edit with any text editor.
+To create a simple hotkey, you can use the following syntax:
+Copy code
+#z:: Send, Hello world! 
+This script will create a hotkey that sends the text "Hello world!" when you press the "Z" key while holding down the "Windows" key. You can change the hotkey by replacing the "Z" with any other key or combination of keys.
+To run your script, simply double-click on the .ahk file. The script will be executed in the background, and you can use the hotkeys you've defined while working in other programs. To stop the script, right-click on the AutoHotkey icon in the system tray and select "Exit."
+There are many more features and functions available in AutoHotkey, including the ability to create GUI programs, interact with the clipboard, and even control other programs. You can find more information and examples in the AutoHotkey documentation and on the AutoHotkey forums.
